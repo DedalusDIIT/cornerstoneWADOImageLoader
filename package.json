@@ -1,5 +1,5 @@
 {
-  "name": "@DedalusDIIT/cornerstone-wado-image-loader",
+  "name": "@dedalusdiit/cornerstone-wado-image-loader",
   "version": "3.0.7",
   "description": "Cornerstone Image Loader for DICOM WADO-URI and WADO-RS",
   "keywords": [
