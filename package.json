@@ -15,6 +15,7 @@
   "main": "./dist/cornerstoneWADOImageLoader.min.js",
   "module": "./dist/cornerstoneWADOImageLoader.min.js",
   "publishConfig": {
+    "cache": "~/.npm",
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
