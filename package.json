@@ -1,6 +1,6 @@
 {
-  "name": "@DedalusDIIT/cornerstone-wado-image-loader",
-  "version": "3.0.7",
+  "name": "@dedalusdiit/cornerstone-wado-image-loader",
+  "version": "3.0.8",
   "description": "Cornerstone Image Loader for DICOM WADO-URI and WADO-RS",
   "keywords": [
     "DICOM",
@@ -15,6 +15,7 @@
   "main": "./dist/cornerstoneWADOImageLoader.min.js",
   "module": "./dist/cornerstoneWADOImageLoader.min.js",
   "publishConfig": {
+    "cache": "~/.npm",
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
